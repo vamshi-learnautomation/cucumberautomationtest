@@ -62,6 +62,6 @@ public class LoginSteps {
 	}
 	@Then("verify Search results are displayed")
 	public void verify_search_results_are_displayed() {
-		System.out.println("search results are displayed");
+		System.out.println("search results are displayed based on search criteria");
 	}
 }
