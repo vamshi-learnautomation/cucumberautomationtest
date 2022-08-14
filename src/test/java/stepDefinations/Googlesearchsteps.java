@@ -29,6 +29,7 @@ public class Googlesearchsteps {
 		System.out.println(" search results are displayed based on  search criteria");
 		System.out.println("This is a new change in Git Remote and need to pull into local");
                                     System.out.println("This change is from local to remote repository");
+		 System.out.println("This change is from remote new branch to local repository");
 	}
 
 	
