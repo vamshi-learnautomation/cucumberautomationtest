@@ -27,6 +27,7 @@ public class Googlesearchsteps {
 	@Then("search results are displayed based on search criteria")
 	public void search_results_are_displayed_based_on_search_criteria() {
 		System.out.println(" search results are displayed based on  search criteria");
+		System.out.println("This is a new change in Git Remote and need to pull into local");
 	}
 
 	
