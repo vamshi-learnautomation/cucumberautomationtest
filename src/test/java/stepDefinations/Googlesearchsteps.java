@@ -26,7 +26,7 @@ public class Googlesearchsteps {
 	
 	@Then("search results are displayed based on search criteria")
 	public void search_results_are_displayed_based_on_search_criteria() {
-		System.out.println(" search results are displayed based on criteria");
+		System.out.println(" search results are displayed based on  search criteria");
 	}
 
 	
