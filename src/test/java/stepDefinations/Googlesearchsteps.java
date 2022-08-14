@@ -28,6 +28,7 @@ public class Googlesearchsteps {
 	public void search_results_are_displayed_based_on_search_criteria() {
 		System.out.println(" search results are displayed based on  search criteria");
 		System.out.println("This is a new change in Git Remote and need to pull into local");
+                                    System.out.println("This change is from local to remote repository");
 	}
 
 	
